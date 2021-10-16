@@ -10,4 +10,4 @@ a different one.
 ### Lab 3: 
 Add the functionalities to perform an audit of the workstation, using the options that were selected and output the results of the audit on screen.
 ### Recordings:
-![recording1](https://github.com/Victor0120/LabsCS/tree/master/recording/1.gif)
+![1](https://github.com/Victor0120/LabsCS/tree/master/recording/1.gif)

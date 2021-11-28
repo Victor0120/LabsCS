@@ -11,4 +11,3 @@ a different one.
 Add the functionalities to perform an audit of the workstation, using the options that were selected and output the results of the audit on screen.
 ### Recordings:
 ![video1](https://github.com/Victor0120/LabsCS/tree/master/recording/video1.gif)
-![sdf](https://github.com/Victor0120/LabsCS/tree/master/recording/video1.gif)

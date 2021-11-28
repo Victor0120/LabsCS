@@ -9,5 +9,12 @@ Add the functionality to choose which options from the custom audit to run (by s
 a different one.
 ### Lab 3: 
 Add the functionalities to perform an audit of the workstation, using the options that were selected and output the results of the audit on screen.
+### Lab 4-5: 
+Add the functionality to enforce the selected policies and have the possibility to rollback to the initial settings.
+### Lab 6: 
+Create an application that would let you authorize into your account using SSO (Single Signo-On) with an identity provider and output data about the registered user.
 ### Recordings:
+# Labs 1-5
 ![video1](https://github.com/Victor0120/LabsCS/tree/master/recording/video1.gif)
+# Lab 6
+![video2](https://github.com/Victor0120/LabsCS/tree/master/recording/video2.gif)
